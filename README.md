@@ -1,2 +1,3 @@
 # QUIZIT
-The game is a quiz game based on Information Technologies, and users are testing their own knowledge on the subject. 
+
+The game is a user-based quiz which python console game that aims the user to learn while the user enjoys. QUIZIT is for information technology enthusiasts, at the same time its name inspires by the abbreviation of Information Technologies as Quiz - It. In the game, there are 3 categories, which have 12 questions and 1 extra question for each one, for which users can select and game. The user can have up to 3 wild cards during the game. These are half-and-half joker, answer twice joker and change question joker. The user should give as many correct answers as possible, and use the time very well, because a score is calculated for each quiz. As a result, an environment that can encourage players is created. Additionally, users can find some statics about their own previous games.
