@@ -1,0 +1,43 @@
+type,question,a,b,c,d,answer
+components,1. What computer part keeps the computer from overheating?,RAM,Wires,CPU,Fan,D
+components,2. Principal input device used to type instructions into the computer.,Microphone,Speaker,Keyboard,Scanner,D
+components,3. What is hardware?,The outside of the computer,The insides of a computer,The physical components of the computer,The parts of a computer that a human uses,C
+components,4. Where the operating system - programs and data are permanently stored is called what?,Primary Storage,Secondary Storage,Tertiary Storage,Backup,B
+components,5. What happens to the contents of the RAM when the computer is turned off?,It is deleted / lost,It is sent back to the secondary storage,It is processed by the CPU,It is stored until the computer is turned back on,A
+components,6. What is the speed of the processor measured in?,Hertz (hz),Gigabytes (GB),Megabytes (MB),Miles Per Hour (MPH),A
+components,7. This component only executes instructions from the main (primary) memory which are to be displayed on the screen.,Graphics Card (GPU),CPU,HDD,Motherboard,A
+components,8. Which software is an example of System Software ?,Photoshop CC,Scratch,File Explorer,Google Chrome,C
+components,9. Where is ROM usually found inside a computer?,Inside the CPU,As part of the hard drive,On the motherboard,With the CD drive,C
+components,10. What does the motherboard do?,Processes instructions,Keeps the computer safe,Generates electricity,Connects everything together,D
+components,11. Which type of Computer will be used for storing huge database ?,Micro Computer,Mini Computer,Mainframe Computer,SuperComputer,C
+components,12. Is an internal expansion card that provides input and output of audio signals to and from a computer under control of computer programs.,Graphic Card,Audio Card,TV Card,Network Card,B
+components,A pointing device used to make on-screen selections.,Mouse,Printer,CPU,Flash Drive,A
+number_systems,1. Which of the following is NOT a positional number system?,Roman Number System,Octal Number System,Binary Number System,Hexadecimal Number System,A
+number_systems,2. What are the only two numbers you can use in binary?,0 and 1,1 and 2,2 and 3,3 and 4,A
+number_systems,3. Which of the following is the best definition of a bit?,An electrical signal in a wire,A physical signal that becomes a digital signal,A measure of computer graphics and sound,A single 1 or 0 in a digital signal,D
+number_systems,4. How many bits make a byte?,2,4,8,16,C
+number_systems,5. The binary equivalent of the decimal number 10 is ____,0010,10,1010,010,C
+number_systems,6. Which of the following is NOT a binary number?,1111,101,11E,000,C
+number_systems,7. 'C' stands for ____ in Hexadecimal number system.,10,11,12,13,D
+number_systems,8. How many different values can be represented using 8 bits?,128,255,256,999,C
+number_systems,9. The binary number 10011101 is equivalent to ____,9E,9F,9D,FF,C
+number_systems,10. Convert the Hex number B9 to binary.,10111001,10111000,10111101,10101001,A
+number_systems,11. A ____ Internet connection can transmit more than a billion ones and zeroes every second.,kilobyte,megabyte,gigabyte,terabyte,C
+number_systems,12. Smallest to largest which of the below answers is correct?,bit-nibble-byte-megabyte-kilobyte-terabyte-petabyte,nibble-bit-byte-kilobyte-megabyte-terabyte-petabyte,bit-byte-nibble-kilobyte-megabyte-petabyte-terabyte,bit-nibble-byte-kilobyte-megabyte-terabyte-petabyte,D
+number_systems,Computers store all data using ____,Binary,Hexadecimal,Denary,Octal,A
+software,1. Which type of business software can be used to create a presentation using text - graphics - animation - audio and video?,Word,Excel,Access,PowerPoint,D
+software,2. Which of the following is the correct flow of data in computer operation?,input-process-output,process-input-output,output-process-input,input-output-process,A
+software,3. Mac OS is an example of ______________ software.,Application,Utility,System,Programming,C
+software,4. C++ - Visual Basic and Cobol are example of ________________ software.,Application,Utility,System,Programming,D
+software,5. A computer's Operating System ________ .,Manages the software on your computer,Manages the hardware on your computer,Coordinates all of the actions of your computer,All of the them,D
+software,6. Which of the following is a database software?,Word,Excel,Access,PowerPoint,C
+software,7. Which of the following is a system software?,Linux,MS Office 2003,Flipgrid,Gmail,A
+software,8. Python is an example of a _____ .,Text-based programming language,Object orientated programming language,language written in java script,Visual-based programming language,A
+software,9. What will the output be from the following code? print("Hello" + str(2) + "world!"),Hello world! Hello world!,Hello2world!,Hello Hello world! world!,SyntaxError,B
+software,10. What is syntax?,Syntax is the word used to describe an error,Syntax is the rules of the programming language,It is used to read information,It is used to output information,B
+software,11. What does the term 'debug' mean?,Identify errors and fix them,Making a calculation,A set of instructions,Looking at code,A
+software,12. Decides if a string only contains numbers,isalpha(),isnumeric(),int(),string(),B
+software,Code repeated / looped until a condition has been met or a set number of times.,Sequence,Selection,Iteration,Variable,C
+
+
+

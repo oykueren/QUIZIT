@@ -1,3 +1,30 @@
 # QUIZIT
+A Quiz game written in Python that depends on user knowledge.
 
-The game is a user-based quiz which python console game that aims the user to learn while the user enjoys. QUIZIT is for information technology enthusiasts, at the same time its name inspires by the abbreviation of Information Technologies as Quiz - It. In the game, there are 3 categories, which have 12 questions and 1 extra question for each one, for which users can select and game. The user can have up to 3 wild cards during the game. These are half-and-half joker, answer twice joker and change question joker. The user should give as many correct answers as possible, and use the time very well, because a score is calculated for each quiz. As a result, an environment that can encourage players is created. Additionally, users can find some statics about their own previous games.
+
+## Installing
+Download the Python 3 from the official website and install it.
+
+Run the followings in the terminal to install the colorama, plotext libraries
+```
+pip3 install colorama
+pip3 install plotext
+```
+
+## Running the application
+After initialaizing the libraries the quiz game can be played only by executing the 'main.py' file.
+No other files needed to be executed.
+```
+python main.py
+```
+
+
+## Prerequisites
+* [Python](https://www.python.org)
+* [Colorama](https://pypi.org/project/colorama/), an open source Python library for making colorful terminal prints.
+* [Plotext](https://pypi.org/project/plotext/), an open source Python library for makin graphs and plots.
+
+
+## Authors
+
+* **Öykü Eren**

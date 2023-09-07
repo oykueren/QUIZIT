@@ -1,0 +1,147 @@
+components,1. What computer part keeps the computer from overheating?,D,d,1.6837098598480225
+components,2. Principal input device used to type instructions into the computer.,D,c,6.427416563034058
+components,3. What is hardware?,C,c,1.9845941066741943
+components,1. What computer part keeps the computer from overheating?,D,d,1.7816033363342285
+components,2. Principal input device used to type instructions into the computer.,D,d,5.298387765884399
+components,3. What is hardware?,C,c,1.9374802112579346
+components,4. Where the operating system - programs and data are permanently stored is called what?,B,b,8.03530216217041
+components,A pointing device used to make on-screen selections.,A,a,7.518921375274658
+components,6. What is the speed of the processor measured in?,A,a,3.4093315601348877
+components,7. This component only executes instructions from the main (primary) memory which are to be displayed on the screen.,A,d,4.09745717048645
+components,8. Which software is an example of System Software ?,C,c,2.0004067420959473
+components,9. Where is ROM usually found inside a computer?,C,c,31.716174125671387
+components,10. What does the motherboard do?,D,d,2.127713680267334
+components,11. Which type of Computer will be used for storing huge database ?,C,a,14.334886312484741
+components,12. Is an internal expansion card that provides input and output of audio signals to and from a computer under control of computer programs.,B,b,13.128893613815308
+number_systems,1. Which of the following is NOT a positional number system?,A,a,1.799253225326538
+number_systems,2. What are the only two numbers you can use in binary?,A,c,4.098340749740601
+number_systems,3. Which of the following is the best definition of a bit?,D,d,16.38723611831665
+number_systems,4. How many bits make a byte?,C,c,4.006180047988892
+number_systems,5. The binary equivalent of the decimal number 10 is ____,C,b,2.7385497093200684
+number_systems,6. Which of the following is NOT a binary number?,C,d,2.375669479370117
+number_systems,7. 'C' stands for ____ in Hexadecimal number system.,D,a,3.044699192047119
+number_systems,8. How many different values can be represented using 8 bits?,C,c,2.590787887573242
+number_systems,9. The binary number 10011101 is equivalent to ____,C,b,8.129093885421753
+number_systems,10. Convert the Hex number B9 to binary.,A,a,1.9221892356872559
+number_systems,11. A ____ Internet connection can transmit more than a billion ones and zeroes every second.,C,a,5.391931772232056
+number_systems,12. Smallest to largest which of the below answers is correct?,D,a,1.7207787036895752
+software,1. Which type of business software can be used to create a presentation using text - graphics - animation - audio and video?,D,d,5.234720706939697
+software,2. Which of the following is the correct flow of data in computer operation?,A,a,4.57912802696228
+software,3. Mac OS is an example of ______________ software.,C,c,5.68887996673584
+software,4. C++ - Visual Basic and Cobol are example of ________________ software.,D,b,12.730076313018799
+software,5. A computer's Operating System ________ .,D,d,7.938873052597046
+software,6. Which of the following is a database software?,C,b,5.252299070358276
+software,7. Which of the following is a system software?,A,a,2.970418930053711
+software,8. Python is an example of a _____ .,A,a,6.876351833343506
+software,"9. What will the output be from the following code? print(""Hello"" + str(2) + ""world!"")",B,b,3.8295974731445312
+software,10. What is syntax?,B,b,5.595203876495361
+software,11. What does the term 'debug' mean?,A,a,6.801246643066406
+software,12. Decides if a string only contains numbers,B,b,5.152028799057007
+components,1. What computer part keeps the computer from overheating?,D,d,6.405018091201782
+components,2. Principal input device used to type instructions into the computer.,D,b,12.521096229553223
+components,3. What is hardware?,C,c,2.1027772426605225
+components,4. Where the operating system - programs and data are permanently stored is called what?,B,b,2.6864194869995117
+components,5. What happens to the contents of the RAM when the computer is turned off?,A,a,5.436857461929321
+components,6. What is the speed of the processor measured in?,A,a,4.927958011627197
+components,7. This component only executes instructions from the main (primary) memory which are to be displayed on the screen.,A,a,5.103430986404419
+components,8. Which software is an example of System Software ?,C,c,4.627839088439941
+components,9. Where is ROM usually found inside a computer?,C,c,4.331726551055908
+components,10. What does the motherboard do?,D,d,3.485614538192749
+components,11. Which type of Computer will be used for storing huge database ?,C,c,4.270704984664917
+components,12. Is an internal expansion card that provides input and output of audio signals to and from a computer under control of computer programs.,B,b,3.7968149185180664
+number_systems,1. Which of the following is NOT a positional number system?,A,a,7.514303684234619
+number_systems,2. What are the only two numbers you can use in binary?,A,d,4.834514856338501
+number_systems,3. Which of the following is the best definition of a bit?,D,d,3.266232967376709
+number_systems,4. How many bits make a byte?,C,a,2.437448263168335
+number_systems,5. The binary equivalent of the decimal number 10 is ____,C,a,7.565265417098999
+number_systems,6. Which of the following is NOT a binary number?,C,c,11.20616340637207
+number_systems,7. 'C' stands for ____ in Hexadecimal number system.,D,c,5.977798700332642
+number_systems,8. How many different values can be represented using 8 bits?,C,c,4.250610828399658
+number_systems,9. The binary number 10011101 is equivalent to ____,C,b,6.62841010093689
+number_systems,10. Convert the Hex number B9 to binary.,A,a,4.5485570430755615
+number_systems,11. A ____ Internet connection can transmit more than a billion ones and zeroes every second.,C,d,4.157343626022339
+number_systems,12. Smallest to largest which of the below answers is correct?,D,c,14.242092847824097
+software,1. Which type of business software can be used to create a presentation using text - graphics - animation - audio and video?,D,b,9.019806146621704
+software,2. Which of the following is the correct flow of data in computer operation?,A,a,4.469632625579834
+software,3. Mac OS is an example of ______________ software.,C,c,4.57815957069397
+software,4. C++ - Visual Basic and Cobol are example of ________________ software.,D,d,4.535161733627319
+software,5. A computer's Operating System ________ .,D,d,5.314241170883179
+software,6. Which of the following is a database software?,C,c,12.042444705963135
+software,7. Which of the following is a system software?,A,a,2.657670736312866
+software,8. Python is an example of a _____ .,A,a,3.0927717685699463
+software,"9. What will the output be from the following code? print(""Hello"" + str(2) + ""world!"")",B,b,3.0634243488311768
+software,10. What is syntax?,B,b,15.090620994567871
+software,11. What does the term 'debug' mean?,A,a,3.1742308139801025
+software,12. Decides if a string only contains numbers,B,b,9.24519944190979
+components,1. What computer part keeps the computer from overheating?,D,d,9.691838502883911
+components,2. Principal input device used to type instructions into the computer.,D,d,2.9708566665649414
+components,3. What is hardware?,C,c,2.5325660705566406
+components,4. Where the operating system - programs and data are permanently stored is called what?,B,b,2.033031940460205
+components,5. What happens to the contents of the RAM when the computer is turned off?,A,a,4.389478445053101
+components,6. What is the speed of the processor measured in?,A,a,2.9862115383148193
+components,7. This component only executes instructions from the main (primary) memory which are to be displayed on the screen.,A,a,3.4708774089813232
+components,8. Which software is an example of System Software ?,C,c,3.706357955932617
+components,9. Where is ROM usually found inside a computer?,C,c,4.5348005294799805
+components,10. What does the motherboard do?,D,d,4.23409366607666
+components,11. Which type of Computer will be used for storing huge database ?,C,c,3.750702381134033
+components,12. Is an internal expansion card that provides input and output of audio signals to and from a computer under control of computer programs.,B,b,3.4072482585906982
+number_systems,1. Which of the following is NOT a positional number system?,A,a,2.6262123584747314
+number_systems,2. What are the only two numbers you can use in binary?,A,a,5.922156572341919
+number_systems,3. Which of the following is the best definition of a bit?,D,a,7.2385947704315186
+number_systems,4. How many bits make a byte?,C,a,7.6123974323272705
+number_systems,5. The binary equivalent of the decimal number 10 is ____,C,a,13.973495483398438
+number_systems,6. Which of the following is NOT a binary number?,C,a,16.881023406982422
+number_systems,7. 'C' stands for ____ in Hexadecimal number system.,D,a,7.1620776653289795
+number_systems,8. How many different values can be represented using 8 bits?,C,a,10.009648084640503
+number_systems,9. The binary number 10011101 is equivalent to ____,C,a,6.597858667373657
+number_systems,10. Convert the Hex number B9 to binary.,A,a,6.892981052398682
+number_systems,11. A ____ Internet connection can transmit more than a billion ones and zeroes every second.,C,a,5.406498432159424
+number_systems,12. Smallest to largest which of the below answers is correct?,D,a,9.69195818901062
+components,1. What computer part keeps the computer from overheating?,D,a,8.018346548080444
+components,2. Principal input device used to type instructions into the computer.,D,d,43.958609104156494
+components,3. What is hardware?,C,c,2.2189722061157227
+components,4. Where the operating system - programs and data are permanently stored is called what?,B,d,2.4688754081726074
+components,5. What happens to the contents of the RAM when the computer is turned off?,A,a,1.5938351154327393
+components,6. What is the speed of the processor measured in?,A,a,2.0937602519989014
+components,7. This component only executes instructions from the main (primary) memory which are to be displayed on the screen.,A,d,3.312476396560669
+components,8. Which software is an example of System Software ?,C,c,5.144764423370361
+components,9. Where is ROM usually found inside a computer?,C,a,4.862114191055298
+components,10. What does the motherboard do?,D,a,4.172613143920898
+components,11. Which type of Computer will be used for storing huge database ?,C,c,4.840907573699951
+components,12. Is an internal expansion card that provides input and output of audio signals to and from a computer under control of computer programs.,B,b,3.1754376888275146
+number_systems,1. Which of the following is NOT a positional number system?,A,a,6.6792802810668945
+number_systems,2. What are the only two numbers you can use in binary?,A,b,3.6583476066589355
+number_systems,3. Which of the following is the best definition of a bit?,D,c,5.9551873207092285
+number_systems,4. How many bits make a byte?,C,d,6.126809358596802
+number_systems,5. The binary equivalent of the decimal number 10 is ____,C,a,4.191979646682739
+number_systems,6. Which of the following is NOT a binary number?,C,c,9.026222229003906
+number_systems,7. 'C' stands for ____ in Hexadecimal number system.,D,d,4.96706223487854
+number_systems,8. How many different values can be represented using 8 bits?,C,c,3.971313238143921
+number_systems,9. The binary number 10011101 is equivalent to ____,C,a,6.189897298812866
+number_systems,10. Convert the Hex number B9 to binary.,A,a,4.1423866748809814
+number_systems,11. A ____ Internet connection can transmit more than a billion ones and zeroes every second.,C,a,5.35086727142334
+number_systems,12. Smallest to largest which of the below answers is correct?,D,b,2.8608174324035645
+software,1. Which type of business software can be used to create a presentation using text - graphics - animation - audio and video?,D,d,3.2859458923339844
+software,2. Which of the following is the correct flow of data in computer operation?,A,a,2.234813928604126
+software,3. Mac OS is an example of ______________ software.,C,d,4.3781726360321045
+software,4. C++ - Visual Basic and Cobol are example of ________________ software.,D,d,2.7041831016540527
+software,5. A computer's Operating System ________ .,D,d,6.802819490432739
+software,6. Which of the following is a database software?,C,c,5.89314866065979
+software,7. Which of the following is a system software?,A,c,9.689224004745483
+software,8. Python is an example of a _____ .,A,a,3.8448948860168457
+software,"9. What will the output be from the following code? print(""Hello"" + str(2) + ""world!"")",B,b,2.3753950595855713
+software,10. What is syntax?,B,b,6.765919923782349
+software,11. What does the term 'debug' mean?,A,a,3.533853054046631
+software,12. Decides if a string only contains numbers,B,b,1.8437564373016357
+software,1. Which type of business software can be used to create a presentation using text - graphics - animation - audio and video?,D,a,8.469505310058594
+software,2. Which of the following is the correct flow of data in computer operation?,A,c,3.2844855785369873
+software,3. Mac OS is an example of ______________ software.,C,d,18.22819709777832
+software,4. C++ - Visual Basic and Cobol are example of ________________ software.,D,d,2.4531667232513428
+software,5. A computer's Operating System ________ .,D,d,4.270972013473511
+software,6. Which of the following is a database software?,C,c,3.8868391513824463
+software,7. Which of the following is a system software?,A,a,3.126034736633301
+software,8. Python is an example of a _____ .,A,a,2.9849460124969482
+software,"9. What will the output be from the following code? print(""Hello"" + str(2) + ""world!"")",B,b,2.893803834915161
+software,10. What is syntax?,B,b,2.8285558223724365
+software,11. What does the term 'debug' mean?,A,a,2.625673294067383
+software,12. Decides if a string only contains numbers,B,d,3.1259853839874268
